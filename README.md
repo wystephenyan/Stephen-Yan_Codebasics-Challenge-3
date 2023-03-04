@@ -1,4 +1,4 @@
-# Stephen-Yan_Codebasics Resume Project Challenge #4
+# Stephen Yan_Codebasics Resume Project Challenge #4
 
 This is a repository showing my SQL queries for the 10 ad_hoc requests and the presentation slides for the Codebasics challenge 3.
 

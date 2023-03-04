@@ -1,4 +1,4 @@
-#Request 3 - What is the percentage of unique product increase in 2021 vs. 2020?
+#Request 2 - What is the percentage of unique product increase in 2021 vs. 2020?
 
 
 WITH up_2020 AS (
